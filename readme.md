@@ -36,3 +36,17 @@ Heute habe ich gelernt wie man eine Bibliothek installiert und habe mich mithilf
 Ich habe die Dateiauswahl durch Dateiexplorer implementiert und habe somit die Bildauswahl ermöglicht.
 
 Für Arbeitspaket 3 habe ich noch einige Platzhalterknöpfe eingebaut bei denen die Auswahl für die zusätzlichen Informationen nicht vorhanden sind. (81)
+
+## 12.4.2024
+
+- [ ] In offizieller Dokumentation anschauen wie man einen Filter einsetzt
+- [ ] In offizieller Dokumentation anschauen wie man die Sättigung ändert
+- [ ] In offizieller Dokumentation anschauen wie man die Schärfe ändert
+- [ ] Bild im Fileexplorer speichern lernen
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --- | --- | --- | --- | --- |
+| 1   | Bild ausgewählt | Filter einsetzen (Graufilter) | Graufilter angewendet |     |
+| 2   | siehe 1. | Sättigung einstellbar mit Regler | Bildsättigung verändert |     |
+| 3   | siehe 1. | Schärfe mit Regler einstellbar | Bildschärfe verändert |     |
+| 4   | siehe 1. | "Bild speichern" angeklickt, Dateispeicherort ausgewählt | Bild gespeichert, "Bild erfolgreich gespeichert" Textnachricht angezeigt |
