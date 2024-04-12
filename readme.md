@@ -2,7 +2,7 @@ Lern-Periode 4
 
 ## übergeordnetes Thema: Ausführung und Planung
 
-## Grob-Planung ***<u>(diese 3 sätze überarbeiten)</u>***
+## Grob-Planung
 
 1. Ich stehe mit den Noten gut da und sollte mich aufs Programmieren fokussieren.
   
